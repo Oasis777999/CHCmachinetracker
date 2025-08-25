@@ -13,9 +13,7 @@ const Footer = () => {
               <h3 className="text-2xl font-bold">CHC MACHINE TRACKER</h3>
             </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              Revolutionary GPS tracking solutions for industrial machines. 
-              Our universal tracking system works with any equipment, providing 
-              real-time location monitoring and comprehensive fleet management.
+              Revolutionary tracking technology that adapts to any Agricultural equipment. Monitor location, performance, and security in real-time.
             </p>
           </div>
 
