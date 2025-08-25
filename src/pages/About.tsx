@@ -41,6 +41,20 @@ const About = () => {
                 installed on any type of farm equipment—tractors, harvesters,
                 seed drills, or sprayers regardless of brand, age, or size.
               </p>
+              <p className="text-lg text-gray-600 mb-8 leading-relaxed">
+                <strong>
+                  This innovation empowers farmers and Custom Hiring Centres
+                  (CHCs) to:
+                </strong>
+                <br /> &#8594; Monitor real-time location and utilization of their
+                machinery.
+                <br /> &#8594;
+                Reduce idle time and fuel wastage through optimized deployment.
+                <br /> &#8594;
+                Enhance security against theft and unauthorized usage.
+                <br /> &#8594;
+                Ensure timely operations during critical cropping windows.
+              </p>
               <div className="grid grid-cols-2 gap-6">
                 <div>
                   <div className="text-3xl font-bold text-blue-600 mb-2">
